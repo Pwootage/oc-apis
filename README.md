@@ -1,5 +1,7 @@
 # OC lua API files (for use in IntelliJ or others)
 
+These files are specifically generated with OpenOS in mind, but they should still be useful for other development.
+
 I'll put docs on how to use this here a bit later :)
 
 # License
