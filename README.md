@@ -1,8 +1,32 @@
-# OC lua API files (for use in IntelliJ or others)
+# OC Lua API reference files
 
 These files are specifically generated with OpenOS in mind, but they should still be useful for other development.
 
-I'll put docs on how to use this here a bit later :)
+# How to use
+
+## No IDE
+
+Open up the file that has what you are interested in, and use it as a reference. Done!
+
+## Intelilj
+See Lua for IDEA's documentation: [https://bitbucket.org/sylvanaar2/lua-for-idea/wiki/Setting_Up_Custom_API's](https://bitbucket.org/sylvanaar2/lua-for-idea/wiki/Setting_Up_Custom_API's)
+
+Note that the screenshots are way out of date but otherwise the instructions seem to work
+
+# I don't see the API/Component I want!
+
+Two options here:
+
+* Request it in a [new issue](https://github.com/Pwootage/oc-apis/issues)
+* Create it yourself and [open a pull request](https://github.com/Pwootage/oc-apis/pulls)
+
+
+## Contributing notes
+
+Stick to the same style/format as the rest of the project, please!
+
+When writing a component, [docdump](https://github.com/Pwootage/oc-scripts/blob/master/packages/docdump/docdump.lua) can
+generally do most-to-all of the work for you, especially if the mod properly added doc strings.
 
 # License
 
