@@ -1,7 +1,5 @@
 -- Auto-generated bindings for component 'internet'
-component = component or {}
-internet = internet or {}
-component.internet = internet
+internet = {}
 internet.type = "internet"
 internet.address = "00000000-0000-0000-0000-000000000000"
 internet.slot = 0

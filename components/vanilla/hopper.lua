@@ -1,7 +1,5 @@
 -- Auto-generated bindings for component 'hopper'
-component = component or {}
-hopper = hopper or {}
-component.hopper = hopper
+hopper = {}
 hopper.type = "hopper"
 hopper.address = "00000000-0000-0000-0000-000000000000"
 hopper.slot = 0

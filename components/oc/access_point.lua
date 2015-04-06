@@ -1,7 +1,5 @@
 -- Auto-generated bindings for component 'access_point'
-component = component or {}
-access_point = access_point or {}
-component.access_point = access_point
+access_point = {}
 access_point.type = "access_point"
 access_point.address = "00000000-0000-0000-0000-000000000000"
 access_point.slot = 0

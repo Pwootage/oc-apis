@@ -1,7 +1,5 @@
 -- Auto-generated bindings for component 'eeprom'
-component = component or {}
-eeprom = eeprom or {}
-component.eeprom = eeprom
+eeprom = {}
 eeprom.type = "eeprom"
 eeprom.address = "00000000-0000-0000-0000-000000000000"
 eeprom.slot = 0

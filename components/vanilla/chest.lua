@@ -1,7 +1,5 @@
 -- Auto-generated bindings for component 'chest'
-component = component or {}
-chest = chest or {}
-component.chest = chest
+chest = {}
 chest.type = "chest"
 chest.address = "00000000-0000-0000-0000-000000000000"
 chest.slot = 0

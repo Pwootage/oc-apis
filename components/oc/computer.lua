@@ -1,7 +1,5 @@
 -- Auto-generated bindings for component 'computer'
-component = component or {}
-computer = computer or {}
-component.computer = computer
+computer = {}
 computer.type = "computer"
 computer.address = "00000000-0000-0000-0000-000000000000"
 computer.slot = 0

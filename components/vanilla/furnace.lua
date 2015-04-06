@@ -1,7 +1,5 @@
 -- Auto-generated bindings for component 'furnace'
-component = component or {}
-furnace = furnace or {}
-component.furnace = furnace
+furnace = {}
 furnace.type = "furnace"
 furnace.address = "00000000-0000-0000-0000-000000000000"
 furnace.slot = 0

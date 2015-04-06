@@ -1,7 +1,5 @@
 -- Auto-generated bindings for component 'motion_sensor'
-component = component or {}
-motion_sensor = motion_sensor or {}
-component.motion_sensor = motion_sensor
+motion_sensor = {}
 motion_sensor.type = "motion_sensor"
 motion_sensor.address = "00000000-0000-0000-0000-000000000000"
 motion_sensor.slot = 0

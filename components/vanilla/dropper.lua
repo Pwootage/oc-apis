@@ -1,7 +1,5 @@
 -- Auto-generated bindings for component 'dropper'
-component = component or {}
-dropper = dropper or {}
-component.dropper = dropper
+dropper = {}
 dropper.type = "dropper"
 dropper.address = "00000000-0000-0000-0000-000000000000"
 dropper.slot = 0

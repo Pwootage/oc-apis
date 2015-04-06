@@ -1,7 +1,5 @@
 -- Auto-generated bindings for component 'mob_spawner'
-component = component or {}
-mob_spawner = mob_spawner or {}
-component.mob_spawner = mob_spawner
+mob_spawner = {}
 mob_spawner.type = "mob_spawner"
 mob_spawner.address = "00000000-0000-0000-0000-000000000000"
 mob_spawner.slot = 0

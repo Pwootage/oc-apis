@@ -1,7 +1,5 @@
 -- Auto-generated bindings for component 'redstone'
-component = component or {}
-redstone = redstone or {}
-component.redstone = redstone
+redstone = {}
 redstone.type = "redstone"
 redstone.address = "00000000-0000-0000-0000-000000000000"
 redstone.slot = 0

@@ -1,7 +1,5 @@
 -- Auto-generated bindings for component 'screen'
-component = component or {}
-screen = screen or {}
-component.screen = screen
+screen = {}
 screen.type = "screen"
 screen.address = "00000000-0000-0000-0000-000000000000"
 screen.slot = 0

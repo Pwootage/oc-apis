@@ -1,7 +1,5 @@
 -- Auto-generated bindings for component 'dispenser'
-component = component or {}
-dispenser = dispenser or {}
-component.dispenser = dispenser
+dispenser = {}
 dispenser.type = "dispenser"
 dispenser.address = "00000000-0000-0000-0000-000000000000"
 dispenser.slot = 0

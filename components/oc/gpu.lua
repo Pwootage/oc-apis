@@ -1,7 +1,5 @@
 -- Auto-generated bindings for component 'gpu'
-component = component or {}
-gpu = gpu or {}
-component.gpu = gpu
+gpu = {}
 gpu.type = "gpu"
 gpu.address = "00000000-0000-0000-0000-000000000000"
 gpu.slot = 0

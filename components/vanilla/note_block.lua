@@ -1,7 +1,5 @@
 -- Auto-generated bindings for component 'note_block'
-component = component or {}
-note_block = note_block or {}
-component.note_block = note_block
+note_block = {}
 note_block.type = "note_block"
 note_block.address = "00000000-0000-0000-0000-000000000000"
 note_block.slot = 0

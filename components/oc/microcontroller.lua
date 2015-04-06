@@ -1,7 +1,5 @@
 -- Auto-generated bindings for component 'microcontroller'
-component = component or {}
-microcontroller = microcontroller or {}
-component.microcontroller = microcontroller
+microcontroller = {}
 microcontroller.type = "microcontroller"
 microcontroller.address = "00000000-0000-0000-0000-000000000000"
 microcontroller.slot = 0

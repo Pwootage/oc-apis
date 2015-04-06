@@ -1,7 +1,5 @@
 -- Auto-generated bindings for component 'geolyzer'
-component = component or {}
-geolyzer = geolyzer or {}
-component.geolyzer = geolyzer
+geolyzer = {}
 geolyzer.type = "geolyzer"
 geolyzer.address = "00000000-0000-0000-0000-000000000000"
 geolyzer.slot = 0

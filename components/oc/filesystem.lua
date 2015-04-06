@@ -1,7 +1,5 @@
 -- Auto-generated bindings for component 'filesystem'
-component = component or {}
-filesystem = filesystem or {}
-component.filesystem = filesystem
+filesystem = {}
 filesystem.type = "filesystem"
 filesystem.address = "00000000-0000-0000-0000-000000000000"
 filesystem.slot = 0

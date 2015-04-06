@@ -1,7 +1,5 @@
 -- Auto-generated bindings for component 'beacon'
-component = component or {}
-beacon = beacon or {}
-component.beacon = beacon
+beacon = {}
 beacon.type = "beacon"
 beacon.address = "00000000-0000-0000-0000-000000000000"
 beacon.slot = 0

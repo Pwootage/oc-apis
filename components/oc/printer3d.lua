@@ -1,7 +1,5 @@
 -- Auto-generated bindings for component 'printer3d'
-component = component or {}
-printer3d = printer3d or {}
-component.printer3d = printer3d
+printer3d = {}
 printer3d.type = "printer3d"
 printer3d.address = "00000000-0000-0000-0000-000000000000"
 printer3d.slot = 0
